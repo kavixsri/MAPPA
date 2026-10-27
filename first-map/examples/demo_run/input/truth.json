@@ -1,0 +1,49 @@
+{
+  "origin_utm": [
+    302860,
+    3353810
+  ],
+  "epsg": 32644,
+  "injected_gps_dx_m": 4.2,
+  "injected_gps_dy_m": -3.1,
+  "injected_rotation_deg": 0.3,
+  "injected_dsm_vertical_bias_m": 12.3,
+  "slides": {
+    "slide_A_crosses_NH7": {
+      "cx": 445,
+      "cy": 560,
+      "half_w": 30,
+      "half_h": 190
+    },
+    "slide_B_beside_Hill_Track": {
+      "cx": 800,
+      "cy": 984,
+      "half_w": 20,
+      "half_h": 22
+    },
+    "slide_C_hillside_no_road": {
+      "cx": 1010,
+      "cy": 250,
+      "half_w": 28,
+      "half_h": 40
+    }
+  },
+  "base_res_m": 10.0,
+  "seed": 7,
+  "true_transform": [
+    0.5,
+    0.0,
+    302860.0,
+    0.0,
+    -0.5,
+    3353810.0
+  ],
+  "bad_transform": [
+    0.4999931461237134,
+    0.00261798191570979,
+    302861.0666463527,
+    0.00261798191570979,
+    -0.4999931461237134,
+    3353803.7501970497
+  ]
+}

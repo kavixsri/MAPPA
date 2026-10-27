@@ -1,0 +1,10 @@
+orthophoto_georef.tif    OK      GeoTIFF 2400x2400, 4 band(s), EPSG:32644, overviews=True
+change_mask.tif          OK      GeoTIFF 1207x1207, 1 band(s), EPSG:32644, overviews=True
+height_anomaly_m.tif     OK      GeoTIFF 1207x1207, 1 band(s), EPSG:32644, overviews=True
+change_polygons.gpkg     OK      13 features, EPSG:32644, ['Polygon']
+change_polygons.geojson  OK      13 features, EPSG:4326, ['Polygon']
+roads_status.gpkg        OK      229 features, EPSG:32644, ['LineString']
+roads_status.geojson     OK      229 features, EPSG:4326, ['LineString']
+roads_status.kml         OK      KML 2.2, 229 placemarks
+change_polygons.kml      OK      KML 2.2, 13 placemarks
+brief.pdf                OK      PDF 2081 KB

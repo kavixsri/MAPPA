@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+# large regenerable files (python -m mappa demo recreates them deterministically)
+examples/demo_run/input/drone_after_ortho.tif
+examples/demo_run/output/orthophoto_georef.tif
+datasets/
+odm_work/
+*.egg-info/

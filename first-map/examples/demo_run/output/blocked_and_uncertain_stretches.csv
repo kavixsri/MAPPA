@@ -1,0 +1,7 @@
+status,road,length_m,mean_changed_frac
+BLOCKED,NH-7 Main Road,59.1,0.88
+BLOCKED,Hill Track,19.8,0.89
+UNCERTAIN,Hill Track,19.8,0.19
+UNCERTAIN,Ridge Road,19.8,0.23
+UNCERTAIN,NH-7 Main Road,19.7,0.33
+UNCERTAIN,Valley Link,19.4,0.56
